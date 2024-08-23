@@ -23,14 +23,14 @@ Estou no meu 3° semestre de Desenvolvimento de Software Multiplataforma, na Fat
 - PHP
 
 # Ferramentas
-- Git e Github
+- Git e GitHub 
 - VS Code, NetBeans e IntellijIdea
 - Power BI
 
 # Habilidades
 - Boa comunicação
 - Disposição para aprender
-- Raciocínio logico e matemático 
+- Raciocínio lógico e matemático 
 - Liderança
 
 # Contato
