@@ -11,12 +11,16 @@ Estou no meu 3° semestre de Desenvolvimento de Software Multiplataforma, na Fat
 - Artificial Intelligence
 - Machine Learning
 
-# Linguagens e Ferramentas
+# Linguagens
 
 - Python
 - Java
 - SQL e T-SQL
+- JavaScript
 - Kotlin
+- C
+- C#
+- PHP
 
 # Ferramentas
 - Git e Github
