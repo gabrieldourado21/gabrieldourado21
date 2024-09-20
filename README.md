@@ -13,11 +13,11 @@ Estou no meu 3° semestre de Desenvolvimento de Software Multiplataforma, na Fat
 
 # Linguagens
 
-- Python
 - Java
+- Python
 - SQL e T-SQL
-- JavaScript
 - Kotlin
+- JavaScript
 - C
 - C#
 - PHP
@@ -30,8 +30,7 @@ Estou no meu 3° semestre de Desenvolvimento de Software Multiplataforma, na Fat
 # Habilidades
 - Boa comunicação
 - Disposição para aprender
-- Raciocínio lógico e matemático 
-- Liderança
+- Raciocínio lógico e matemático
 
 # Contato
 
