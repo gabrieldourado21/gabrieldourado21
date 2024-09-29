@@ -1,5 +1,4 @@
 <h1>Oi. Meu nome é Gabriel Dourado</h1>
-
 <h3>Estou no meu 3° semestre de Desenvolvimento de Software Multiplataforma, na Fatec Diadema</h3>
 
 <div>
@@ -10,14 +9,8 @@
 </div>
 
 <div>
-  <h3>Interesses</h3>
-  - Desenvolvimento de Software
-  - Banco de Dados
-  - Design Patterns
-  - Data Science
-  - Business Intelligence
-  - Artificial Intelligence
-  - Machine Learning
+  <h1>Interesses</h1>
+  Desenvolvimento de Software - Banco de Dados - Design Patterns - Data Science - Business Intelligence - Artificial Intelligence - Machine Learning
 </div>
 
 <div>
