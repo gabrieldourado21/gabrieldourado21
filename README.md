@@ -15,7 +15,15 @@
 
 <div>
   <h1>Interesses</h1>
-  Desenvolvimento de Software - Banco de Dados - Design Patterns - Data Science - Business Intelligence - Artificial Intelligence - Machine Learning
+  <h3>
+    - Desenvolvimento de Software <br>
+    - Banco de Dados <br>
+    - Design Patterns <br>
+    - Data Science <br>
+    - Business Intelligence <br>
+    - Artificial Intelligence <br>
+    - Machine Learning
+  </h3>
 </div>
 
 <div>
