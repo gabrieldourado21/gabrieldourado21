@@ -1,8 +1,8 @@
 <h1>Oi. Meu nome é Gabriel Dourado</h1>
 
 <h3>Estou no meu 4° semestre de Desenvolvimento de Software Multiplataforma, na Fatec Diadema.
-  <br> Atualmente, procuro um estágio ou emprego de meio período, 
-  na área de Desenvolvimento de Software ou de Ciência de Dados
+  <br> Atualmente, procuro um emprego de meio período, 
+  na área de Desenvolvimento de Software ou de Data Science
 </h3>
 
 <div>
