@@ -19,7 +19,6 @@
     - Data Science <br>
     - Business Intelligence <br>
     - Artificial Intelligence <br>
-    - Machine Learning
   </h3>
 </div>
 
