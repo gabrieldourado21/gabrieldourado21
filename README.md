@@ -1,6 +1,6 @@
 <h1>Oi. Meu nome é Gabriel Dourado</h1>
 
-<h3>Estou no meu 4° semestre de Desenvolvimento de Software Multiplataforma, na Fatec Diadema.
+<h3>Estou cursando, o 4° semestre de Desenvolvimento de Software Multiplataforma, na Fatec Diadema.
 </h3>
 
 <div>
