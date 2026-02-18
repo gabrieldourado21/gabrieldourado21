@@ -19,8 +19,10 @@
   </h3>
 </div>
 
+<!--
 <div>
   <h1>Contato</h1>
   <h3>Se quiser me conhecer melhor, acesse o meu perfil no Linkedin</h3>
   <a href="https://www.linkedin.com/in/gabrieldouradosantos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>   
 </div>
+-->
